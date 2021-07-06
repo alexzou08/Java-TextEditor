@@ -11,7 +11,7 @@ The code you’ll be developing here is what’s called “back-end” code, in 
 
 ---
 
-## What I have learned
+## Tech Stack
 * Describe the difference between an abstract data type (ADT) and its implementation.
 * Work with Java's built-in classes for fundamental data structures including: String, LinkedList, TreeSet, HashSet, and HashMap.
 * Analyze the performance of code, using Big-O notation as well as through benchmarking experiments.
