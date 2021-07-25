@@ -2,7 +2,7 @@
 This is a coursera course project.
 [Link to the Course](https://www.coursera.org/specializations/object-oriented-programming)
 
-The project builds a smart text editor/processor that incorporates “intelligent” behaviors of modern-day text interfaces including autocomplete, flagging misspelled words and spelling auto-correct.
+The project builds a smart text editor/processor that incorporates “intelligent” behaviors of modern-day text interfaces including autocomplete, flagging misspelled words and spelling auto-correct. 
 
 ---   
 
