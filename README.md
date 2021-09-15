@@ -7,7 +7,7 @@ The project builds a smart text editor/processor that incorporates “intelligen
 ---   
 
 ## Sceenshots
-
+<img src= "text editor.png" width = "600">
 ---
 
 ## Code design
