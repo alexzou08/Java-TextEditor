@@ -7,8 +7,8 @@ The project builds a smart text editor/processor that incorporates “intelligen
 ---   
 
 ## Sceenshots
-<img src= "text editor.png" width = "600">
 ---
+<img src= "text editor.png" width = "600">
 
 ## Code design
 Computers can do amazing things with text these days.  Spelling errors are practically a thing of the past, you barely type three characters and the computer seems to read your mind, knowing just what you are trying to type, and your computer can produce intelligible “speech”.  How do all these technologies work?  You’ll find out in this course, and in this project.
